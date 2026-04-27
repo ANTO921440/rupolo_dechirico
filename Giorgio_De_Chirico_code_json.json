@@ -1,0 +1,334 @@
+{
+  "itinerari": [
+    {
+      "id": "giorgio_de_chirico_passeggiata",
+      "nome": "Roma: l'enigma oltre la fisica",
+      "sottotitolo": "Giorgio De Chirico e la sua Roma",
+      "personaggio": {
+        "nome": "Giorgio De Chirico",
+        "anni": "1888-1978",
+        "professione": "Pittore, scultore, scrittore",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Uno dei principali protagonisti della pittura del Novecento e fondatore della cosiddetta 'pittura metafisica'",
+        "immagine": "giorgiodechirico-image.jpg",
+        "opere_correlate": [
+          "Memorie Della Mia Vita, De Chirico (1945)",
+          "Ettore e Andromaca, De Chirico (1917)",
+          "Piccolo trattato di tecnica pittorica, De Chirico (1928)"
+        ]
+      },
+      "tema": "Arte Metafisica",
+      "categoria": "Arte e Cultura",
+      "durata_totale_ore": 14,
+      "difficolta": "facile",
+      "immagine_copertina": "copertina_giorgio_de_chirico.jpg.png",
+      "distanza_totale_km": 3,
+      "periodo_consigliato": "Primavera/Autunno (temperature miti)",
+      "stagione_migliore": ["marzo", "aprile", "maggio", "settembre", "ottobre"],
+      "descrizione": "Segui Giorgio De Chirico attraverso i luoghi più significativi della sua vita a Roma. Lasciati guidare dalle sensazioni che evocano quelle piazze e quelle strade.",
+      "note_logistiche": "Iniziare all'alba richiede sveglia anticipata. Portare acqua, cappello e scarpe comode. Prevedere pause caffè tra le tappe. Verificare gli orari di apertura dei musei e ricorda di prenotare per visitare la Casa-Museo di Giorgio De Chirico allo specifico orario che preferisci.",
+      "accessibilita": "Tutte le tappe sono accessibili con mezzi pubblici oppure a piedi. Metro A per Piazza di Spagna e Trinità Dei Monti (fermata:Spagna),poi a piedi per la Casa-Museo Fondazione Giorgio e Isa De Chirico, Metro A per il Museo Carlo Bilotti (fermata:Flaminio), a piedi per la Glleria Nazionale D'Arte Moderna e Contemporanea e per Via Mrgutta.",
+      "costo_stimato_spostamenti": "€1.50-3.00",
+      "costo_stimato_attrazioni": "Fondazione Giorgio e Isa De Chirico(€8, ridotto €5 per i minori), GNAM(€17 intero, €2 ridotto per cittadini UE tra i 18 e i 25 anni)",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "piazza_di_spagna_e_chiesa_di_trinità_dei_monti",
+          "orario_consigliato": "06:00",
+          "momento_giornata": "alba",
+          "durata_visita_min": 90,
+          "coordinate": [41.9059, 12.4823],
+          "nome": "Piazza di Spagna e Chiesa di Trinità dei Monti",
+          "descrizione_breve": "Piazza di Spagna, ai piedi della scalinata di Trinità dei Monti, è una delle più famose piazze di Roma. Il legame tra Giorgio de Chirico, Piazza di Spagna e Trinità dei Monti è profondo e intimo, poiché l'artista visse e lavorò proprio in questa zona per gli ultimi trent'anni della sua vita.",
+          "indicazioni_arrivo": "Metro A Spagna",
+          "esperienza_culturale": {
+             "musica": {
+              "movimento": "Gymnopédie No. 1",
+              "compositore": "Erik Satie",
+              "durata_sec": 244,
+              "descrizione_musicale": "Il brano 'Gymnopédie No. 1' è stato scritto dal cantautore Erik Satie ed è perfetto per accompagnare una passeggiata a Piazza Di Spagna perchè crea una 'bolla' di sospensione temporale che trasforma la piazza reale in una delle sue Piazze d'Italia metafisiche.",
+              "youtube_url": "https://youtu.be/2WfaotSK3mI"
+            },
+            "letteratura": {
+              "citazione": "Dicono che Roma sia il centro del mondo e che Piazza di Spagna sia il centro di Roma, io e mia moglie, quindi si abiterebbe nel centro del centro del mondo.",
+              "autore": "Giorgio De Chirico",
+              "opera": "Memorie Della Mia Vita",
+              "anno": 1945,
+              "contesto": "De Chirico parla della sua vita a Roma."
+            },
+            "atmosfera": {
+              "momento": "alba",
+              "luce": "mordida e chiara",
+              "suoni_ambiente": [
+                "passi delle poche persone che ci sono",
+                "rumori leggeri della città",
+                "voce lontana delle persone"
+              ],
+              "temperatura_stimata": "15-18°C",
+              "affollamento": "minimo (orario pre-apertura)",
+              "consiglio_fotografico": "Posizionati in basso, vicino alla fontana della Barcaccia, per inquadrare l'intera scalinata e la chiesa di Trinità dei Monti. Utilizza un'apertura diaframma stretta per la massima nitidezza",
+              "emozione_target": "Sensazione di tempo sospeso"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Tardo Barocco",
+              "architetti": ["Francesco De Sanctis", "Alessandro Specchi"],
+              "anno_costruzione": "1723-1726",
+              "descrizione": "è una delle piazze più celebri di Roma e simboleggia: l'incontro tra Nazioni (Francia e Spagna), la Resilienza di Roma (La Barcaccia), l'Unità e l'Ascesa (La Scalinata), Dogma e Devozione (Colonna dell'Immacolata)."
+            }
+          },
+          "storia": "Nata nel XVII secolo, deve il nome al Palazzo dell'Ambasciata di Spagna. Per anni fu divisa tra l'influenza spagnola (la piazza) e quella francese (la chiesa in cima al colle).",
+          "curiosita": "Era frequente vedere De Chirico camminare per la piazza o seduto ai tavolini dello storico Antico Caffè Greco in Via dei Condotti, dove ancora oggi è conservato un suo ritratto e dove amava incontrare intellettuali e amici",
+          "consiglio_utile":"Dal 2019 è severamente vietato sedersi sui gradini della scalinata di Trinità dei Monti per preservarne il monumento. Si rischiano multe salate (fino a 400€).",
+          "attività":"fermati a fare colazione all'Antico Caffè Greco e goditi ancora la tua permanenza nella piazza passeggiando per i negozi e i vicoletti circostanti",
+          "metadata": {
+            "accessibilita": "gratuita",
+            "orari_standard": "tutti",
+            "servizi": ["toilette", "shopping", "trasporti", "ristorazione", "punti informazione", "bar", "taxi"]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "casa_museo_fondazione_giorgio_e_isa_de_chirico",
+          "orario_consigliato": "10:30",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 75,
+          "coordinate": [41.90565, 12.48232],
+          "nome": "Casa-Museo Fondazione Giorgio e Isa De Chirico",
+          "descrizione_breve": "La Casa Museo di Giorgio De Chirico, dove ha abitato con sua moglie Isa dal 1948 al 1978. Oggi è un prezioso gioiello che conserva la sua dimora-studio, ricco di sue opere.",
+          "indicazioni_arrivo": "Procedi in direzione nordest verso Piazza di Spagna poi volta a destra, la tua destinazione è sulla sinistra.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "2 min",
+            "distanza_m": 126
+          },
+          "esperienza_culturale": {
+             "musica": {
+              "movimento": "Idillio di Sigfrido",
+              "compositore": "Richard Wagner",
+              "durata_sec": 181,
+              "descrizione_musicale": "L''Idillio di Sigfrido' è un brano di Richard Wagner che richiama la solennità che si può ammirare dai dipinti di De Chirico sulle piazze d'Italia presenti nella Casa-Museo.",
+              "youtube_url": "https://youtu.be/n96lUtYqcSg"
+            },
+            "letteratura": {
+              "citazione": "Quando gli oggetti sono fuori posto a casa lo chiamiamo disordine, in arte si chiama Metafisica.",
+              "autore": "Cristina Cadolini",
+              "contesto": "Articolo sulla Casa-Museo di Giorgio De Chirico."
+            },
+            "arte": {
+              "atmosfera": "intima, domestica",
+              "sensazioni": "Silenzio vs Caos: Uno degli aspetti più affascinanti è il contrasto tra il silenzio quasi 'metafisico' dell'interno e il brusio costante della folla in Piazza di Spagna che si intravede dalle finestre, Opere in Contesto: Le pareti sono piene di quadri, ma vederli appesi nei salotti dove de Chirico riceveva gli ospiti dà un senso di continuità tra la sua vita privata e la sua visione artistica.",
+              "curiosità": "Il 'cuore' della visita. Si trova all'ultimo piano, inondato dalla luce naturale dei lucernari, con il cavalletto di de Chirico ancora in posizione. È qui che il pittore ha creato le sue ultime opere della fase 'neometafisica'"
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "brillante e nitida",
+              "suoni_ambiente": [
+                "silenzio degli ambienti",
+                "passi dei visitatori"
+              ],
+              "temperatura_stimata": "20-23°C",
+              "affollamento": "basso",
+              "emozione_target": "Riflessione"
+            },
+            "arte_visiva": {
+              "stile_pittorico": "Metafisica",
+              "scultore": "Giorgio De Chirico",
+              "anno_costruzione": "1910-1918",
+              "descrizione": "Le opere metafisiche mirano a mostrare l'aspetto enigmatico e 'spettrale' degli oggetti comuni, spogliandoli della loro funzione logica per rivelarne l'essenza nascosta"
+            }
+          },
+          "metadata": {
+            "accessibilita": "costo intero: € 8,00, ridotto: € 5,00 (per ragazzi fino ai 18 anni e over 65), gratuito: Per bambini fino ai 12 anni e accompagnatori di persone con disabilità.",
+            "servizi": ["visita guidata", "archivio e biblioteca", "bookshop", "ascensore"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "museo_carlo_bilotti",
+          "orario_consigliato": "12:00",
+          "momento_giornata": "mezzogiorno",
+          "durata_visita_min": 60,
+          "coordinate": [41.91305, 12.48245],
+          "nome": "Museo Carlo Bilotti",
+          "descrizione_breve": "Il Museo Carlo Bilotti è situato nell'Aranciera di Villa Borghese ed ospita una collezione permanente dedicata a Giorgio De Chirico.",
+          "indicazioni_arrivo_con_i_mezzi": "Prendi la Metro A a Piazza Di Spagna e scendi alla femata Flaminio, poi cammina 8 miniuti",
+          "indicazioni_arrivo_a_piedi":"Procedi in direzione nord su Piazza di Spagna verso Scalinata della Trinità dei Monti, svolta a destra e prendi Via di S. Sebastianello, svolta a sinistra e prendi Viale della Trinità dei Monti, svolta a destra e prendi Viale Adamo Mickievicz, svolta a destra verso Viale dell'Obelisco, svolta a destra verso Viale dell'Obelisco, svolta a destra verso Viale dell'Obelisco, alla rotonda prendi la 1ª uscita e prendi Viale dell'Obelisco, continua su Piazzale dei Martiri, svolta a sinistra verso Viale della Fontana Rotonda, svolta leggermente a destra verso Viale della Fontana Rotonda, svolta leggermente a sinistra verso Viale della Fontana Rotonda, svolta a destra verso Viale della Fontana Rotonda, svolta a sinistra e prendi Viale della Fontana Rotonda, svolta a sinistra e prendi Viale Tarragona, svolta a destra e prendi Viale Fiorello La GuardiaLa tua destinazione è sulla sinistra",
+          "tempo_spostamento_da_tappa_precedente": {
+            "con_i_mezzi": "12 min",
+            "a_piedi":"15 min",
+            "distanza_km": 1.2,
+            "pausa_pranzo": "13:00-14:00"
+          },
+          "esperienza_culturale": {
+               "musica": {
+              "movimento": "Piano-Rag-Music",
+              "compositore": "Igor Stravinsky",
+              "durata_sec": 188,
+              "descrizione_musicale": "Il brano 'Piano-Rag-Music' di Igor Stravinsky è perfetto da ascoltare durante una visita al Museo Carlo Bilotti, che ospita la famosa opera 'Ettore e Andromaca'(in cui i due si abbracciano in una stretta 'irreale', come due manichini), per via del suo legame con la modernità frammentata e l'uso ritmico del 'manichino'.",
+              "youtube_url": "https://youtu.be/QNipPW_3gdI"
+            },
+            "letteratura": {
+              "citazione": "Dipingere è l'arte magica… è l'ombra lunga, è la luce ferma... il pomeriggio immobile.",
+              "autore": "Giorgio De Chirico",
+              "opera": "Piccolo trattato di tecnica pittorica",
+              "anno": 1928,
+              "contesto": "De Chirico parla di cos'è per lui la pittura. "
+            },
+            "arte": {
+              "movimento": "Qui è conservato un nucleo raro di opere del periodo tardo spirituale di De Chirico, incluse sculture e dipinti a tema religioso o mitologico (come i celebri Ettore e Andromaca), che mostrano un lato più intimo e riflessivo dell'artista.",
+              "descrizione_contesto": "Il contrasto tra Antico e Moderno: Il museo si trova nell'Aranciera di Villa Borghese, un edificio storico del '700. Vederai le tele metafisiche di De Chirico incastonate in un'architettura classica.",
+              "curiosità": "Essendo un museo poco affollato, offre un'atmosfera di grande silenzio e contemplazione, perfetta per riflettere sulle opere.",
+              "descrizione":"Le opere esposte mostrano il rapporto tra arte e spazio ed il comtesto unisce arte contemporanea e ambiente naturale"
+            },
+            "atmosfera": {
+              "momento": "mezzogiorno",
+              "luce": "massima, perfetta per apprezzare a pieno il contesto naturale e silenzioso dell'Aranciera di Villa Borghese che circonda il museo.",
+              "suoni_ambiente": [
+                "suoni della natura",
+                "voci leggere del parco"
+              ],
+              "temperatura_stimata": "25-28°C (caldo pieno)",
+              "affollamento": "medio",
+              "emozione_target": "curiosità, spiritualità"
+            }
+          },
+          "storia": "Il Museo Carlo Bilotti nasce nel 2006 nell'antica Aranciera di Villa Borghese, restaurata dopo anni di abbandono e un incendio. La sua collezione si deve alla donazione dell'imprenditore Carlo Bilotti, che regalò a Roma un nucleo prezioso di opere di De Chirico.",
+          "metadata": {
+            "accessibilita": "gratuito per tutti per la collezione di De Chirico",
+            "servizi": ["app e supporti guidati", "wi-fi", "ascensore", "visita guidata", "bookshop"]
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "galleria_nazionale_di_arte_moderna_e_contemporanea",
+          "orario_consigliato": "15:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 180,
+          "coordinate": [41.9168866, 12.4819584],
+          "nome": "Galleria Nazionale Di Arte Moderna e Contemporanea",
+          "descrizione_breve": "La Galleria Nazionale d'Arte Moderna e Contemporanea è il principale museo italiano dedicato all'arte dal XIX ad oggi, che custodisce circa 78 opere di Giorgio De Chirico del periodo dal 1909 al 1975.",
+          "indicazioni_arrivo_a_piedi": "Procedi in direzione nordovest su Viale Fiorello La Guardia verso Viale Tarragona, svolta a destra e prendi Largo José Artigas, svolta a sinistra verso Viale Esculapio, svolta tutto a destra e prendi Viale Esculapio, svolta a sinistra e prendi Largo Aleksandr Sergeevic Puskin, svolta a sinistra e prendi Viale Madama Letizia, svolta a destra e prendi Piazzale Ahmed Shawky, svolta a destra e prendi Piazzale Ferdowsi, svolta a sinistra e prendi Via Omero/Piazzale Ferdowsi, svolta a destra e prendi Scalea Bruno ZeviPrendi le scale, prendi l'attraversamento pedonale, svolta a sinistra",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "22 min",
+            "distanza_km": 1.7
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Les Chants de la mi-mort",
+              "compositore": "Alberto Savinio",
+              "durata_sec": 705,
+              "descrizione_musicale": "Il brano 'Les Chants de la mi-mort', che consiglio per la visita alla GNAM, è del fratello di De Chirco, Alberto Savinio, è la sua opera metafisica più iconica e la sua melodia sembra venire da un'altra dimensione proprio come le opere del fratello.",
+              "youtube_url": "https://youtu.be/zczXwiB9_FA"
+            },
+            "letteratura": {
+              "citazione": "Un'opera d'arte per divenire immortale deve sempre superare i limiti dell'umano senza preoccuparsi né del buon senso né della logica.",
+              "autore": "Giorgio De Chirico",
+              "opera": "Memorie Della Mia Vita",
+              "anno": 1945,
+              "contesto": "De Chirico parla della sua vita a Roma."
+            },
+            "arte": {
+              "artista": "Giorgio De Chirico",
+              "descrizione": "Le opere presenti permettono di osservare l'evoluzione del suo stile e il suo modo di rappresentare il tempo e lo spazio."
+            },
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "piena, forte, artificiale",
+              "suoni_ambiente": [
+                "silenzio del museo",
+                "passi dei visitatori"
+              ],
+              "temperatura_stimata": "25-28°C (caldo pieno)",
+              "affollamento": "moderato",
+              "consiglio_fotografico": "Prova un'inquadratura dal basso verso l'alto per enfatizzare la maestosità della facciata progettata da Bazzani nel 1911.",
+              "emozione_target": "attenzione, consapevolezza"
+            }
+          },
+          "storia": "Nata nel 1883 per l'Italia unita, dal 1911 ha sede nel monumentale Palazzo di Valle Giulia. Sotto Palma Bucarelli (1941-75) si è aperta alle avanguardie mondiali. Oggi espone 20.000 opere senza ordine cronologico, mescolando epoche diverse.",
+          "curiosita": "Alla Galleria Nazionale è conservato l'Autoritratto di Giorgio de Chirico (1924) che fu al centro di una furiosa polemica: i critici dell'epoca lo massacrarono perché l'artista aveva abbandonato la Metafisica per uno stile più 'classico' e barocco. De Chirico, offeso, rispose definendo i critici 'imbecilli' e rivendicando il suo diritto di cambiare stile quando voleva.",
+          "metadata": {
+            "accessibilita": "€17 intero, €2 ridotto per cittadini UE tra i 18 e i 25 anni",
+            "servizi": ["Caffè & Ristorante", "bookshop", "biblioteca e archivi", "didattica", "ascensori"]
+        }
+        },
+        {
+          "numero": 5,
+          "poi_id": "via_margutta_:_la_via_degli_artisti",
+          "orario_consigliato": "19:00",
+          "momento_giornata": "sera",
+          "durata_visita_min": 60,
+          "coordinate": [41.9085, 12.4792],
+          "nome": "Via Margutta: la via degli artisti",
+          "descrizione_breve": "'Strada degli Artisti': dove Giorgio De Chirico ebbe il suo primo studio romano.",
+          "indicazioni_arrivo_a_piedi": "Procedi verso sudest, svolta a destra e prendi Scalea Bruno ZeviPrendi le scale, svolta a destra e prendi Via Omero/Piazzale Ferdowsi, svolta a sinistra e prendi Piazzale Ferdowsi, svolta a destra e prendi Piazzale Ahmed Shawky, svolta a destra e prendi Viale Madama Letizia, svolta leggermente a sinistra per rimanere su Viale Madama Letizia, svolta a destra e prendi Viale David Lubin, svolta a sinistra verso Viale Giorgio Washington, svolta a destra e prendi Viale Giorgio Washington, svolta a sinistra e prendi Piazza del Popolo, svolta a sinistra verso Piazza del Popolo, svolta a destra verso Piazza del Popolo, svolta a sinistra verso Piazza del Popolo, svolta a destra e prendi Piazza del Popolo, continua su Via del Babuino, svolta a sinistra e prendi Via Margutta",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "20 min",
+            "distanza_km": 1.5
+          },
+          "esperienza_culturale": {
+             "musica": {
+              "movimento": "Via Margutta",
+              "compositore": "Luca Barbarossa",
+              "durata_sec": 238,
+              "descrizione_musicale": "Il brano 'Via Margutta' di Luca Barbarossa è un omaggio alla memoria storica e artistica di Via Margutta.",
+              "youtube_url": "https://youtu.be/JliX99VY8-c"
+            },
+            "letteratura": {
+              "citazione": "“Via Margutta è una strada tranquilla. Ci passa solo chi ci deve andare.” ",
+              "autore": "Carlo Cassola",
+              "anno": 2019,
+              "contesto": "Via Margutta non è per tutti, è infatti la strada degli artisti."
+            },
+            "arte": {
+              "artista": "Giorgio De Chirico",
+              "descrizione": "Questo luogo rappresenta la dimensione più concreta della vita artistica di De Chirico, infatti il suo studio si trovava qui."
+            },
+            "atmosfera": {
+              "momento": "sera",
+              "luce": "dorata, poi crepuscolare",
+              "suoni_ambiente": [
+                "rumore della gente"
+              ],
+              "temperatura_stimata": "18-22°C",
+              "affollamento": "moderato",
+              "consiglio_fotografico": "Scatta dal centro della via per esaltare i sanpietrini e le linee di fuga, vai nel tardo pomeriggio per una luce calda e ombre lunghe molto suggestive.",
+              "emozione_target": "nostalgia"
+            }
+          },
+          "storia": "Nata come zona di stalle e retrobottega, divenne dal Rinascimento il rifugio degli artisti per i prezzi bassi.",
+          "curiosita": "In via Margutta, Giorgio de Chirico frequentava assiduamente lo studio di Luigi Pirandello (al civico 7), dove i due giganti del Novecento discutevano di arte e metafisica.",
+          "metadata": {
+            "accessibilita": "gratuito",
+            "servizi": ["Ristoranti", "hotel", "gallerie d'arte e botteghe", "shopping & design"]
+        }
+        }
+        ],
+      "mappa_percorso": {
+        "link_mappa": "https://www.google.com/maps/d/u/0/edit?mid=139DPtsZSNfYxg3-_UemgTTozmN4To0k&usp=sharing",
+        "colore_percorso": "sui toni del blu"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile (fontanelle romane lungo il percorso)",
+        "Scarpe comode obbligatorie (3 km a piedi)",
+        "Cappello e crema solare per mezzogiorno",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Prenotare in anticipo i musei",
+        "Considerare pausa pranzo dopo il Museo Carlo Bilotti",
+        "Fare il percorso con calma",
+        "Osservare gli spazi senza fretta",
+        "Evitare le ore più affollate",
+        "fermati per un aperitivo o una cena nei localini di Via Mrgutta"
+      ],
+      "migliore_periodo_anno": "Marzo-Maggio o Settembre-Ottobre (luce migliore, temperature miti)",
+      "sconsigliato": ["Piena estate (troppo caldo a mezzogiorno)", "Gennaio-Febbraio (alba troppo tarda)"],
+      "cosa_portare": [
+        "Smartphone con app mappe e moovit",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Cappello",
+        "Crema solare",
+        "Snack energetici",
+        "Batteria portatile"
+      ]
+    }
+  ]
+}
